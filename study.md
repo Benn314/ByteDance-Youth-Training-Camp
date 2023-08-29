@@ -5,8 +5,7 @@
 - [x] [前端设计模式概述 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169465286075088932)
 - [x] [JavaScript 和前端框架中的设计模式 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169471877549654023)
   - [x] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
-
-- [ ] [深入浅出 TypeScript - 掘金](https://juejin.cn/course/bytetech/7219155491984212024/section/7223915114905698362)
+- [x] [深入浅出 TypeScript - 掘金](https://juejin.cn/course/bytetech/7219155491984212024/section/7223915114905698362)
 - [ ] [React 的历史与应用 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181287649443840061)
 - [ ] [React 的设计思路 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181297907503464509)
 - [ ] [React (hooks)的写法与 React 实现 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181298684229845053)
@@ -41,6 +40,11 @@
 - [ ] [Web 开发安全 - 攻击篇 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169430298457800717)
 - [ ] [Web 开发安全 - 防御篇 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169466760435859487)
   - [x] [【前端专场 学习资料四】字节跳动青训营 - 掘金](https://juejin.cn/post/7194380955958640695/#heading-4)
+- [ ] [计算机网络概论](https://juejin.cn/course/bytetech/7219155491984212024/section/7219155491992600613)
+- [ ] [Linux 基础](https://juejin.cn/course/bytetech/7219155491984212024/section/7219155711941410871)
+- [ ] [Shell 脚本和编程](https://juejin.cn/course/bytetech/7219155491984212024/section/7219202683205976121)
+- [ ] [编程范式](https://juejin.cn/course/bytetech/7219155491984212024/section/7219207612301049917)
+- [ ] [客户端容器](https://juejin.cn/course/bytetech/7219155491984212024/section/7221511104966361143)
 
 ---
 
@@ -463,3 +467,23 @@ let isActive: boolean = person[2]; // 获取元组中第三个元素
 ![image-20230829193644505](study.assets/image-20230829193644505.png)
 
 ![image-20230829193823872](study.assets/image-20230829193823872.png)
+
+![image-20230829200421453](study.assets/image-20230829200421453.png)
+
+![image-20230829200431920](study.assets/image-20230829200431920.png)
+
+![image-20230829200641613](study.assets/image-20230829200641613.png)
+
+![image-20230829200713747](study.assets/image-20230829200713747.png)
+
+![image-20230829200846896](study.assets/image-20230829200846896.png)
+
+![image-20230829200940259](study.assets/image-20230829200940259.png)
+
+![image-20230829201440694](study.assets/image-20230829201440694.png)
+
+![image-20230829201449935](study.assets/image-20230829201449935.png)
+
+![image-20230829201723638](study.assets/image-20230829201723638.png)
+
+![image-20230829202205934](study.assets/image-20230829202205934.png)
