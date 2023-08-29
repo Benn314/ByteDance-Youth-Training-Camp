@@ -2,45 +2,45 @@
 
 > （按优先级高到低依次排序）
 
-- [ ] [前端设计模式概述 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169465286075088932)
-- [ ] [JavaScript 和前端框架中的设计模式 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169471877549654023)
-  - [ ] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
+- [x] [前端设计模式概述 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169465286075088932)
+- [x] [JavaScript 和前端框架中的设计模式 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169471877549654023)
+  - [x] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
 
 - [ ] [深入浅出 TypeScript - 掘金](https://juejin.cn/course/bytetech/7219155491984212024/section/7223915114905698362)
 - [ ] [React 的历史与应用 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181287649443840061)
 - [ ] [React 的设计思路 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181297907503464509)
 - [ ] [React (hooks)的写法与 React 实现 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181298684229845053)
 - [ ] [React 状态管理库与应用级框架科普 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181301644058067001)
-  - [ ] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
+  - [x] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
 - [ ] [Webpack 定义解析 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181287647778701369)
 - [ ] [Webpack 使用方法 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181301869854064701)
-  - [ ] [【前端专场 学习资料五】字节跳动青训营 - 掘金](https://juejin.cn/post/7196393365314322489/#heading-0)
+  - [x] [【前端专场 学习资料五】字节跳动青训营 - 掘金](https://juejin.cn/post/7196393365314322489/#heading-0)
 - [ ] [前端开发调试之 PC 端调试 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181029728822755385)
 - [ ] [前端开发调试之移动端调试 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181053070262943804)
-  - [ ] [【前端专场 学习资料四】字节跳动青训营 - 掘金](https://juejin.cn/post/7194380955958640695/#heading-4)
+  - [x] [【前端专场 学习资料四】字节跳动青训营 - 掘金](https://juejin.cn/post/7194380955958640695/#heading-4)
 - [ ] [Vite 基本概要 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181337230214955063)
 - [ ] [Vite 上手实战与架构解析 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181336006816170021)
 - [ ] [Vite 进阶路线 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181337621052784697)
-  - [ ] [【前端专场 学习资料五】字节跳动青训营 - 掘金](https://juejin.cn/post/7196393365314322489/#heading-0)
+  - [x] [【前端专场 学习资料五】字节跳动青训营 - 掘金](https://juejin.cn/post/7196393365314322489/#heading-0)
 - [ ] [Web 开发基本情况介绍 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7168760826797817863)
 - [ ] [Web 开发标准 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169425175421812749)
-  - [ ] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
+  - [x] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
 - [ ] [初识 HTTP 协议 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169430296574558216)
 - [ ] [HTTP 协议的应用场景分析 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169464204594937893)
 - [ ] [HTTP 协议实战分析 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7168791819554127908)
-  - [ ] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
+  - [x] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
 - [ ] [深入CSS (上) - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145664469740290085)
 - [ ] [深入CSS (下) - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145672737242120206)
 - [ ] [前端与 HTML - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145427918028537892)
-  - [ ] [【前端专场 学习资料一】字节跳动青训营 - 掘金](https://juejin.cn/post/7188270306593603639#heading-0)
+  - [x] [【前端专场 学习资料一】字节跳动青训营 - 掘金](https://juejin.cn/post/7188270306593603639#heading-0)
 - [ ] [JavaScript 编码原则之各司其责 - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145464663537352717)
 - [ ] [JavaScript 编码原则之组件封装 - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145717063451934728)
 - [ ] [JavaScript 编码原则之过程抽象 - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145464663549935652)
 - [ ] [JavaScript 代码质量优化之路 - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145718062635810829)
-  - [ ] [【前端专场 学习资料一】字节跳动青训营 - 掘金](https://juejin.cn/post/7188270306593603639#heading-0)
+  - [x] [【前端专场 学习资料一】字节跳动青训营 - 掘金](https://juejin.cn/post/7188270306593603639#heading-0)
 - [ ] [Web 开发安全 - 攻击篇 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169430298457800717)
 - [ ] [Web 开发安全 - 防御篇 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169466760435859487)
-  - [ ] [【前端专场 学习资料四】字节跳动青训营 - 掘金](https://juejin.cn/post/7194380955958640695/#heading-4)
+  - [x] [【前端专场 学习资料四】字节跳动青训营 - 掘金](https://juejin.cn/post/7194380955958640695/#heading-4)
 
 ---
 
@@ -300,3 +300,166 @@ console.log(renderedHTML);
 
 ​	
 
+# 设计模式
+
+![image-20230828123659420](study.assets/image-20230828123659420.png)
+
+![image-20230828124138673](study.assets/image-20230828124138673.png)
+
+![image-20230828124157350](study.assets/image-20230828124157350.png)
+
+![image-20230828124254221](study.assets/image-20230828124254221.png)
+
+![image-20230828125104559](study.assets/image-20230828125104559.png)
+
+![image-20230829123251110](study.assets/image-20230829123251110.png)
+
+![image-20230829123327094](study.assets/image-20230829123327094.png)
+
+![image-20230829123535845](study.assets/image-20230829123535845.png)
+
+![image-20230829124233197](study.assets/image-20230829124233197.png)
+
+![image-20230829124502743](study.assets/image-20230829124502743.png)
+
+![image-20230829124628891](study.assets/image-20230829124628891.png)
+
+![image-20230829124837665](study.assets/image-20230829124837665.png)
+
+![image-20230829124930733](study.assets/image-20230829124930733.png)
+
+![image-20230829125044396](study.assets/image-20230829125044396.png)
+
+# TypeScript
+
+![image-20230829192217701](study.assets/image-20230829192217701.png)
+
+![image-20230829192319750](study.assets/image-20230829192319750.png)
+
+![image-20230829192351481](study.assets/image-20230829192351481.png)
+
+![image-20230829192440662](study.assets/image-20230829192440662.png)
+
+## TS中unknown和any的区别
+
+在 TypeScript 中，`unknown` 和 `any` 是两种用于描述变量类型的特殊类型。它们在类型系统中具有不同的含义和用途。
+
+1. **`unknown` 类型**：
+
+`unknown` 是 TypeScript 引入的更安全的顶级类型。它与 `any` 类型不同，因为它强制要求进行类型检查和明确的类型转换，以确保更严格的类型安全。
+
+- 当你声明一个变量为 `unknown` 类型时，你必须在使用该变量之前进行类型检查，以确定变量的实际类型。
+- 你不能直接对 `unknown` 类型的变量进行操作，例如调用函数、访问属性等，除非你首先将其类型缩小为更具体的类型。
+
+示例：
+```typescript
+let value: unknown;
+
+// 需要进行类型检查才能进行操作
+if (typeof value === 'string') {
+    let length = value.length; // 可以访问 length 属性
+}
+
+// 直接调用会报错
+value.toString(); // Error: Object is of type 'unknown'
+```
+
+使用 `unknown` 类型可以在某种程度上避免 `any` 类型的类型不确定性带来的问题，但需要更多的类型检查和转换。
+
+2. **`any` 类型**：
+
+`any` 是 TypeScript 中的最不安全的类型。将变量声明为 `any` 类型表示编译器对该变量不会进行任何类型检查，并且可以对其进行任何操作，就像是普通 JavaScript 变量一样。
+
+- 变量声明为 `any` 类型后，编译器不会在使用时进行类型检查，这可能导致运行时错误。
+- `any` 类型适用于那些不需要类型检查的情况，或者在迁移旧的 JavaScript 代码到 TypeScript 时使用。
+
+示例：
+```typescript
+let value: any;
+
+value = 42; // 任何值都可以赋值给 value
+value.toString(); // 没有类型检查，可以直接调用 toString()
+```
+
+综上所述，`unknown` 类型是 TypeScript 中更安全和严格的类型，需要进行类型检查和转换，而 `any` 类型是最不安全的类型，不会进行类型检查，但也因此灵活。在编写 TypeScript 代码时，应优先使用更严格的类型来增强类型安全性。
+
+## Never类型
+
+`never` 类型是 TypeScript 中的一个特殊类型，它表示那些永远不会发生的值的类型。通常在以下情况下会出现 `never` 类型：
+
+1. **函数不会返回值**：如果一个函数永远不会返回值，例如抛出异常或进入无限循环，那么这个函数的返回类型就是 `never`。
+
+```typescript
+function throwError(message: string): never {
+    throw new Error(message);
+}
+
+function infiniteLoop(): never {
+    while (true) {
+        // ...
+    }
+}
+```
+
+2. **类型判断的分支都返回 `never`**：当使用类型守卫进行类型判断时，如果编译器能够确定某个分支绝不会发生，那么该分支的返回类型将被推断为 `never`。
+
+```typescript
+function isString(value: unknown): boolean {
+    if (typeof value === 'string') {
+        return true;
+    }
+    return false; // 编译器会推断此分支为 never 类型
+}
+```
+
+`never` 类型的主要用途是在编写类型安全代码时用于错误处理和边界情况的处理。在函数中，它可以用于确保某些条件下的完整性检查。
+
+总结：
+- `unknown`：表示不确定的类型，需要进行类型检查和转换。
+- `any`：表示任何类型，不会进行类型检查。
+- `never`：表示永远不会发生的类型，通常用于函数不返回值或类型判断的不可能分支。
+
+## 元组tuple
+
+元组 (`tuple`) 是 TypeScript 中的一种数据类型，用于表示一个固定长度且每个元素类型可以不同的数组。与普通数组不同，元组中每个位置的元素类型是预先定义好的，而且长度是固定的。
+
+创建一个元组可以使用一对圆括号 `()`，其中包含元素的类型列表。每个元素的类型在列表中的位置对应着元组中的位置。
+
+示例：
+```typescript
+// 声明一个元组类型
+let person: [string, number, boolean];
+
+// 初始化元组
+person = ['Alice', 30, true];
+```
+
+在元组中，你可以根据索引访问每个元素，并且 TypeScript 会强制保证每个位置的类型是正确的。
+
+```typescript
+let name: string = person[0]; // 获取元组中第一个元素
+let age: number = person[1]; // 获取元组中第二个元素
+let isActive: boolean = person[2]; // 获取元组中第三个元素
+```
+
+需要注意以下几点：
+
+1. **长度限制**：元组有固定的长度，因此不能添加或删除元素。
+
+2. **类型顺序**：在元组中，元素的类型和位置是强相关的。例如，如果你试图将一个不同类型的值分配给元组中的某个位置，TypeScript 将会报错。
+
+3. **推断类型**：如果你初始化一个元组，TypeScript 会根据值的类型自动推断元组的类型。
+
+4. **越界访问**：在编译时，TypeScript 会阻止访问超出元组长度的索引。但是，你可以使用类型断言或强制类型转换来绕过这种检查。
+
+总之，元组在需要存储固定数量元素，每个元素可能有不同类型的情况下很有用，但在使用时需要注意类型安全性和长度限制。
+
+![image-20230829193318239](study.assets/image-20230829193318239.png)
+
+![image-20230829193412942](study.assets/image-20230829193412942.png)
+
+![image-20230829193541506](study.assets/image-20230829193541506.png)
+
+![image-20230829193644505](study.assets/image-20230829193644505.png)
+
+![image-20230829193823872](study.assets/image-20230829193823872.png)
