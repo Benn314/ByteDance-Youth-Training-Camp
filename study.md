@@ -1,50 +1,83 @@
-## 待看视频
+## 待看视频 or 文章
 
 > （按优先级高到低依次排序）
 
 - [x] [前端设计模式概述 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169465286075088932)
 - [x] [JavaScript 和前端框架中的设计模式 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169471877549654023)
   - [x] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
+  - [x] [PPT](https://bytedance.feishu.cn/file/boxcnQVQyA9Ak0MHKZ6LovW4sAe)
 - [x] [深入浅出 TypeScript - 掘金](https://juejin.cn/course/bytetech/7219155491984212024/section/7223915114905698362)
+  - [x] [PPT](https://bytedance.feishu.cn/file/AsTpbKumUowCYXxPcuXcfEr5nig)
+
 - [ ] [React 的历史与应用 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181287649443840061)
 - [ ] [React 的设计思路 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181297907503464509)
 - [ ] [React (hooks)的写法与 React 实现 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181298684229845053)
 - [ ] [React 状态管理库与应用级框架科普 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181301644058067001)
   - [x] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/boxcnGwsB2WwY2HZAp1XHvpnhoq)
 - [ ] [Webpack 定义解析 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181287647778701369)
 - [ ] [Webpack 使用方法 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181301869854064701)
   - [x] [【前端专场 学习资料五】字节跳动青训营 - 掘金](https://juejin.cn/post/7196393365314322489/#heading-0)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/boxcnJwjvX8nwCRQVnioDcl2f8f?office_edit=1)
 - [ ] [前端开发调试之 PC 端调试 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181029728822755385)
 - [ ] [前端开发调试之移动端调试 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181053070262943804)
   - [x] [【前端专场 学习资料四】字节跳动青训营 - 掘金](https://juejin.cn/post/7194380955958640695/#heading-4)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/boxcnAGLgshQ1EKi7ACwx4WI9vc)
 - [ ] [Vite 基本概要 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181337230214955063)
 - [ ] [Vite 上手实战与架构解析 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181336006816170021)
 - [ ] [Vite 进阶路线 - 掘金](https://juejin.cn/course/bytetech/7180922988034785336/section/7181337621052784697)
   - [x] [【前端专场 学习资料五】字节跳动青训营 - 掘金](https://juejin.cn/post/7196393365314322489/#heading-0)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/boxcn7cEYnWeDU4GDyTKHBrPr5c?office_edit=1)
 - [ ] [Web 开发基本情况介绍 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7168760826797817863)
 - [ ] [Web 开发标准 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169425175421812749)
   - [x] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/boxcnyympwCcxRBFAHtFmCvz3Ed?office_edit=1)
 - [ ] [初识 HTTP 协议 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169430296574558216)
 - [ ] [HTTP 协议的应用场景分析 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169464204594937893)
 - [ ] [HTTP 协议实战分析 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7168791819554127908)
   - [x] [【前端专场 学习资料二】字节跳动青训营 - 掘金](https://juejin.cn/post/7189162833613963325#heading-13)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/boxcnUFzZ8jMkS9P3735PsXjINk)
 - [ ] [深入CSS (上) - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145664469740290085)
 - [ ] [深入CSS (下) - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145672737242120206)
+  - [ ] [PPT前端三件套串讲](https://bytedance.feishu.cn/file/REn1bft7QoER8hxlUqPcVhGdnrc)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/boxcn7i8xgfhybV8pU05cJTfkOr)
+
 - [ ] [前端与 HTML - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145427918028537892)
   - [x] [【前端专场 学习资料一】字节跳动青训营 - 掘金](https://juejin.cn/post/7188270306593603639#heading-0)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/boxcnnwzq5GSMUKlhL2qAu7nIFh)
 - [ ] [JavaScript 编码原则之各司其责 - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145464663537352717)
 - [ ] [JavaScript 编码原则之组件封装 - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145717063451934728)
 - [ ] [JavaScript 编码原则之过程抽象 - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145464663549935652)
 - [ ] [JavaScript 代码质量优化之路 - 掘金](https://juejin.cn/course/bytetech/7145675320224383006/section/7145718062635810829)
   - [x] [【前端专场 学习资料一】字节跳动青训营 - 掘金](https://juejin.cn/post/7188270306593603639#heading-0)
+  - [ ] [PPT1](https://bytedance.feishu.cn/file/boxcnxKucsHPvnJ7PfXyCQF5WCd)
+  - [ ] [PPT2-优化](https://bytedance.feishu.cn/file/boxcnDPlu0cgZG1uTtOs9LPXoYf)
 - [ ] [Web 开发安全 - 攻击篇 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169430298457800717)
 - [ ] [Web 开发安全 - 防御篇 - 掘金](https://juejin.cn/course/bytetech/7169405808147431455/section/7169466760435859487)
   - [x] [【前端专场 学习资料四】字节跳动青训营 - 掘金](https://juejin.cn/post/7194380955958640695/#heading-4)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/boxcn9L4YzmTK3mwE3tIBL2UVme)
 - [ ] [计算机网络概论](https://juejin.cn/course/bytetech/7219155491984212024/section/7219155491992600613)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/YwPAbwrB4o4SX9xStO3cqRPsn2d)
+
 - [ ] [Linux 基础](https://juejin.cn/course/bytetech/7219155491984212024/section/7219155711941410871)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/H9JGbU3jMoe23AxopbYcDVJcnHx)
+
 - [ ] [Shell 脚本和编程](https://juejin.cn/course/bytetech/7219155491984212024/section/7219202683205976121)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/HrFjbOsFUoHSyGx5C2Tcuf7Nnab)
+
 - [ ] [编程范式](https://juejin.cn/course/bytetech/7219155491984212024/section/7219207612301049917)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/PvC4bjMldoXw1Fxr33Ucvml7nvh)
+
 - [ ] [客户端容器](https://juejin.cn/course/bytetech/7219155491984212024/section/7221511104966361143)
+  - [ ] [PPT](https://bytedance.feishu.cn/file/Gv9Kbd3HVo4kHextWWVcwiXxnSf)
+
+
+---
+
+以下均为PPT文件链接🔗
+
+- [ ] [技术写作课程](https://bytedance.feishu.cn/file/boxcn3vXUMteQbpFl1z6CgkB8tc)
+- [ ] [组件库的使用和自定义组件](https://bytedance.feishu.cn/file/FE6lbDf81oaxW0xX5Epc7eGxnya)
 
 ---
 
@@ -487,3 +520,41 @@ let isActive: boolean = person[2]; // 获取元组中第三个元素
 ![image-20230829201723638](study.assets/image-20230829201723638.png)
 
 ![image-20230829202205934](study.assets/image-20230829202205934.png)
+
+# 项目管理 - 从理论到实践
+
+[1](https://bytedance.feishu.cn/file/boxcnu19jAHKrx3vLSbJYqjPr6d?office_edit=1)
+
+[2](https://bytedance.feishu.cn/file/boxcnHIzI0bNrX56odcE1BfQrBf)
+
+[3](https://bytedance.feishu.cn/file/boxcnlU6MRISfMVd9fVa1AAbJde)
+
+[4](https://bytedance.feishu.cn/file/boxcns9uJdnr5Bp6fHxfzGhm0Wc)
+
+[5](https://bytedance.feishu.cn/file/boxcn61Yzfi8jNaVI0osOx7uigb)
+
+[6](https://bytedance.feishu.cn/file/boxcnBm8WSApwmH9rlfFTfhOwob)
+
+[7](https://bytedance.feishu.cn/file/boxcng1wEyX8GUNYciC3uK9OX3c?office_edit=1)
+
+[8](https://bytedance.feishu.cn/file/boxcnsW6p4gO0Y8W1dOzZ5Bufuf)
+
+# FaaS 核心技术与最佳实践
+
+[video](https://juejin.cn/course/bytetech/7169476493125353485/section/7169476493133742116)
+
+[1](https://bytedance.feishu.cn/file/boxcn6YTVMb4d4vvZ0MSEAv8kTc)
+
+[2](https://bytedance.feishu.cn/file/boxcns7OOo6CKIxsOSEbCM84sXg)
+
+# iOS 入门 与 开发者现状
+
+[1](https://bytedance.feishu.cn/file/boxcngBOV6VR8J48DKmnKeHZveg)
+
+# 后端入门 - 网络与部署
+
+[video](https://juejin.cn/course/bytetech/7142794745390039054/section/7142798997764177933)
+
+# 后端入门 - 开发与迭代
+
+[video](https://juejin.cn/course/bytetech/7142773151435489288/section/7142769904494592037)
